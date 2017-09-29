@@ -1,2 +1,21 @@
 # community
-General discussion and documentation
+> We are a [Meetup group](https://www.meetup.com/Internet-Freedom-Lisbon/) that focuses on Internet Freedom
+
+The internet is no longer naive. Governents and Companys have realized its power and now whant to control it as well as the people who use it -- us.
+
+
+
+## Information Board
+
+* Still looking for a **space**. Contacted several libraries.
+* If you are willing to do al talk on any related topic, message the organizer at francisco.core [at] protonmail.com
+* In the future this community board is supposed to point people to important resources and maybe make an [awesome list](https://github.com/sindresorhus/awesome) like [this one](https://github.com/drewrwilson/toolsforactivism)
+
+## Topics
+
+|       Privacy        |        Censorship        |       Piracy       |
+| :------------------: | :----------------------: | :----------------: |
+| **Offline Tracking** |   **Decentralization**   |     **Access**     |
+|  **Filter Bubble**   | **Digital Preservation** | **Net Neutrality** |
+|     **Security**     |  **Digital Monopolies**  |  **Data Mining**   |
+
