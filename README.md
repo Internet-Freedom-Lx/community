@@ -8,14 +8,14 @@ The internet is no longer naive. Governents and Companys have realized its power
 ## Information Board
 
 * Still looking for a **space**. Contacted several libraries.
-* If you are willing to do al talk on any related topic, message the organizer at francisco.core [at] protonmail.com
-* In the future this community board is supposed to point people to important resources and maybe make an [awesome list](https://github.com/sindresorhus/awesome) like [this one](https://github.com/drewrwilson/toolsforactivism)
+* If you are willing to do a **talk** on any related topic, message the organizer at francisco.core [at] protonmail.com
+* In the future this community board is supposed to point people to important resources and maybe make an awesome list like [this one](https://github.com/drewrwilson/toolsforactivism).
 
 ## Topics
 
-|       Privacy        |        Censorship        |       Piracy       |
-| :------------------: | :----------------------: | :----------------: |
-| **Offline Tracking** |   **Decentralization**   |     **Access**     |
-|  **Filter Bubble**   | **Digital Preservation** | **Net Neutrality** |
-|     **Security**     |  **Digital Monopolies**  |  **Data Mining**   |
+|       Privacy        |        Censorship        |        Piracy        |
+| :------------------: | :----------------------: | :------------------: |
+| **Offline Tracking** |   **Decentralization**   |      **Access**      |
+|  **Filter Bubble**   | **Digital Preservation** |  **Net Neutrality**  |
+|     **Security**     |  **Digital Monopolies**  | **Terms of Service** |
 
