@@ -1,7 +1,9 @@
 # 📜 community
 > We are a [Meetup group](https://www.meetup.com/Internet-Freedom-Lisbon/) that focuses on Internet Freedom
 
-The internet is no longer naïve. Governents and companies have realized its power and now want to control it as well as the people who use it -- [us](https://en.wikipedia.org/wiki/Netizen). And something must be done about that!
+The internet is no longer naïve. Governents and companies have realized its power and now want to control it as well as the people who use it -- [us](https://en.wikipedia.org/wiki/Netizen). 
+
+And something must be done about that!
 
 
 
