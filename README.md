@@ -13,9 +13,13 @@ The internet is no longer naive. Governents and Companys have realized its power
 
 ## Topics
 
-|       Privacy        |        Censorship        |        Piracy        |
+|Privacy and Security  |        Censorship        |        Piracy        |
 | :------------------: | :----------------------: | :------------------: |
 | **Offline Tracking** |   **Decentralization**   |      **Access**      |
 |  **Filter Bubble**   | **Digital Preservation** |  **Net Neutrality**  |
-|     **Security**     |  **Digital Monopolies**  | **Terms of Service** |
+|     **Openness**     |  **Digital Monopolies**  | **Terms of Service** |
 
+## Resources
++ [Mozilla's Internet Health Page](https://www.mozilla.org/en-US/internet-health/)
+
+even [More Resources](https://github.com/Internet-Freedom-Lx/community/wiki/Documents-and-Essays) are available in the wiki page
